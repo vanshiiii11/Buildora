@@ -1,48 +1,47 @@
-# 🏗️ Buildora
+# Buildora
 
 **One Team. One Vision. One Perfect Home.**
 An end-to-end construction and home services platform that replaces the fragmented, open contractor-marketplace model with a single verified in-house workforce — covering everything from AI-powered cost estimation and live package customization to on-site supervision, workforce dispatch, and executive-level company analytics.
 
 ---
 
-## 💡 Why This Is Different
+## Why This Is Different
 
 Most home-building platforms are just marketplaces — they connect you to independent contractors and step out of the picture. **Buildora is not an open worker marketplace.** Buildora recruits, equips, verifies, and directly operates its entire workforce under one brand. When a customer hires Buildora, Buildora takes complete ownership of the project — from blueprint to final handover — with one accountable team, not a patchwork of subcontractors.
 
 **Company credentials:**
-- 🏆 100% direct-employed staff (no gig-market subcontracting)
-- 📦 10,000+ projects delivered
-- 🛡️ 25-year structural warranty
-- ⭐ 4.95 / 5 customer audit rating
+-  100% direct-employed staff (no gig-market subcontracting)
+-  10,000+ projects delivered
+-  25-year structural warranty
+-  4.95 / 5 customer audit rating
 
 ---
 
-## ✨ Features
+## Features
 
-### 🏠 For Customers
+### For Customers
 - **Dynamic Package Builder** — customize a full home-build in real time: property type, plot size, built-up area, number of floors, and per-department tier (Basic → Standard → Premium → Elite) for everything from structural design to painting — with a **live cost engine** that recalculates instantly as selections change
 - **AI Cost Estimator** — a neural estimation model (Buildora Neural AI Estimator v3.2) that analyzes live steel, cement, and skilled-labour rates by city to generate an instant, itemized budget projection with an accuracy index and over/under-budget warnings
 - **On-Demand Home Services** — book standalone repair/installation jobs (plumbing, electrical, painting, carpentry, HVAC, smart home) with transparent upfront pricing and estimated completion time, delivered by uniformed, verified Buildora specialists
 - **Assigned Team Leader visibility** — every locked-in project shows its dedicated, verified Team Leader with experience and rating before the customer commits
 
-### 👷 For Team Leaders (Site Supervisors)
+### For Team Leaders (Site Supervisors)
 - **Site Console** — submit daily site logs with activity headlines, supervisor notes, progress percentage, worker count, and site photos, all **directly synced to the customer's live view**
 - **Mandatory safety/uniform compliance checklist** — helmet, high-vis jacket, official T-shirt, steel-toe shoes verified daily before work begins
 - **Single point of contact protocol** — Team Leaders are the customer's one accountable contact, reinforcing the "no unregistered workers" policy
 
-### 🧑‍💼 For Operations Managers
+### For Operations Managers
 - **Centralized Workforce Dispatch** — assign verified Team Leaders to active construction sites and incoming home-service bookings from one dispatch queue
 - **Workforce Directory & Uniform Compliance tracking** across all in-house departments
 - **Live project assignment control** — reassign supervisors per project (e.g. Civil & Masonry, Electrical & Power) with real-time status
 
-### 🛡️ For Admins (Executive Control Panel)
+### For Admins (Executive Control Panel)
 - **Company-wide analytics** — gross contracted value, amount collected, active turnkey sites, verified workforce size, and overall customer satisfaction (based on 1,400+ site audits)
 - **Department performance metrics** — team leaders, skilled craftsmen, active project count, and audit rating broken down per department (Civil & Masonry, Plumbing & Drainage, Electrical & Power, Painting & Coating, Carpentry & Woodwork, Interior Design, Architecture & Structural, and more)
 
 ---
 
-## 🖼️ Screenshots
-
+## Screenshots
 ### Landing Page
 Verified-workforce positioning, trust stats, and three entry points: Build My Home, Book a Service, Get Free AI Estimate.
 <img width="1000" height="500" alt="Screenshot 2026-08-08 at 8 17 28 PM" src="https://github.com/user-attachments/assets/9b4d308a-3100-473a-8c19-02305f5aa9de" />
@@ -85,7 +84,7 @@ Company-wide financial and workforce analytics, department-by-department perform
 
 ---
 
-## 🔄 How It Works — End-to-End Flow
+## How It Works — End-to-End Flow
 
 ```mermaid
 flowchart TD
@@ -128,7 +127,7 @@ flowchart TD
 
 ---
 
-## 🧱 Roles & Access
+## Roles & Access
 
 | Role | Portal | Core Responsibility |
 |---|---|---|
@@ -139,7 +138,7 @@ flowchart TD
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -150,7 +149,7 @@ flowchart TD
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # clone the repo
@@ -168,7 +167,7 @@ App runs at `http://localhost:5173`.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Dynamic Package Builder with live multi-department cost engine
 - [x] AI Cost Estimator with budget-overage detection
