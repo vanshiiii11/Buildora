@@ -186,9 +186,14 @@ App runs at `http://localhost:5173`.
 ## Author
 
 **Vanshika Motwani**
-## Email: vanshikamotwani120031@gmail.com
-## Linkedin: https://www.linkedin.com/in/vanshika-motwani-2834b632b/
 
----
+B.Tech CSE | VIT Bhopal University
+
+Email: vanshikamotwani120031@gmail.com
+
+🔗LinkedIn: https://www.linkedin.com/in/vanshika-motwani-2834b632b/
+
+GitHub: https://github.com/vanshiiii11
+
 
 *Buildora is a concept platform demonstrating an end-to-end, in-house-workforce alternative to the open contractor marketplace model — spanning customer-facing estimation tools, field supervision, workforce dispatch, and executive analytics in one connected system.*
