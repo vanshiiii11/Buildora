@@ -10,7 +10,7 @@ An end-to-end construction and home services platform that replaces the fragment
 
 ## Live Demo
 
-**[https://buildora.vercel.app](https://buildora.vercel.app)** *(replace with the final Vercel URL after deployment)*
+**https://buildora-ten.vercel.app/**
 
 Use the role switcher in the app to explore the **Customer**, **Team Leader**, **Operations Manager**, and **Admin** views.
 
